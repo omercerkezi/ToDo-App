@@ -1,0 +1,13 @@
+.todo__body {
+    display: flex;
+    margin: 10px;
+}
+
+.todo__button {
+    margin-left: 10px;
+    padding: 0px 10px;
+    transform: rotate(2deg);
+    border-radius: 20% 5% 20% 5%/5% 20% 25% 20%;
+    background-color: #fdcb6e;
+    font-size: 1.1rem;
+}
